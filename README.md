@@ -28,7 +28,7 @@ To start working on your new project, you will need to:
 
 Install this archetype in your local maven repo:
 
-git clone https://uviyolabone/maven-archetype-spring-mvc-quickstart
+git clone https://github.com/uviyolabone/maven-archetype-spring-mvc-quickstart.git
 cd maven-archetype-spring-mvc-quickstart
 mvn clean install
 
