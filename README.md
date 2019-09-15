@@ -39,7 +39,7 @@ Generate your project based on the installed archetype:
 mvn archetype:generate \
         -DarchetypeGroupId=com.uviyolabone \
         -DarchetypeArtifactId=maven-archetype-spring-mvc-quickstart \
-        -DarchetypeVersion=5.1.9 \
+        -DarchetypeVersion=5.0.0 \
         -DgroupId=uviyolab-one \
         -DartifactId=uvo-v2 \
         -Dversion="1.0-SNAPSHOT" \
