@@ -1,0 +1,1 @@
+# maven-archetype-spring-mvc-quickstart
