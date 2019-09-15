@@ -44,6 +44,7 @@ mvn archetype:generate \
         -DinteractiveMode=false \
         -DarchetypeRepository=https://github.com/uviyolabone/maven-archetype-spring-mvc-quickstart
 Note: Replace GROUP_ID and ARTIFACT_ID with your own.
+
 Testing a Project
 
 If you don't want to be deploying your war file everytime you make a change, simply run the following command on the root of the project:
