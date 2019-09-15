@@ -29,7 +29,9 @@ To start working on your new project, you will need to:
 Install this archetype in your local maven repo:
 
 git clone https://github.com/uviyolabone/maven-archetype-spring-mvc-quickstart.git
+
 cd maven-archetype-spring-mvc-quickstart
+
 mvn clean install
 
 Generate your project based on the installed archetype:
@@ -43,6 +45,7 @@ mvn archetype:generate \
         -Dversion="1.0-SNAPSHOT" \
         -DinteractiveMode=false \
         -DarchetypeRepository=https://github.com/uviyolabone/maven-archetype-spring-mvc-quickstart
+        
 Note: Replace GROUP_ID and ARTIFACT_ID with your own.
 
 Testing a Project
